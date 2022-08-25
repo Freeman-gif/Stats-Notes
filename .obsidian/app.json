@@ -1,0 +1,14 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "promptDelete": false,
+  "strictLineBreaks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
+}

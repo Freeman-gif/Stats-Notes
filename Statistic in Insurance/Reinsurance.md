@@ -1,0 +1,1 @@
+==Resinsurance== is Insurance for insurance companies. The most common types of reinsurance are [[quota share]]
