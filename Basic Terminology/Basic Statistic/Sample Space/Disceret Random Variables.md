@@ -6,3 +6,15 @@ If it is clear from the context that X is discrete, then we simply will say disc
 Another common terminology is [[Probability Mass Function]]
 
 if X is a discrete random variable wiuth pdf(x), then the [[expected value ]]of X is defined by $$E(X)=\sum\limits_{x}xf(x)$$
+
+
+
+Important:
+[[Bernoulli Random Variable]]
+
+[[Binomial distribution]]
+
+
+
+
+[[Probability Mass Function]]

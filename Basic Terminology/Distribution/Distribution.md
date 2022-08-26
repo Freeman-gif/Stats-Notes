@@ -6,7 +6,7 @@
 [[Continuous Probability distribution]]:
 - [[Normal Distribution]]
 
-[[Disceret random variables]]:
+[[Disceret Random Variables]]:
 - [[Discrete Uniform Distribution]]
 
 [[Central Limit Theorem]]

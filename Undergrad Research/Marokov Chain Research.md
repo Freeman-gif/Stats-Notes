@@ -1,9 +1,9 @@
 # Marokov Chain Research
 (WSU Undergrad Research)
 
-Professor: **Daryl DeFord**
 
-Student : **Zhiyuan Chen**
+
+**Freeman Chen**
 
 Start Date: 06/30/2022
 

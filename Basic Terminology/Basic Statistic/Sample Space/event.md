@@ -1,5 +1,5 @@
 # event
-**An event is a subset of the sampel space**
+**An event is a subset of the Sampel Space**
 
 $P(A)$ = $\frac {\#favorbale \,  outcomes}{\# possible\,outcomes}$
 

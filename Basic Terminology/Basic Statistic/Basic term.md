@@ -1,4 +1,4 @@
 # Basic term:
-- [[sample space]]
-- [[event]]
+- [[Sample Space]]
+- [[Event]]
 - [[counting ]]
